@@ -1,3 +1,4 @@
+![Header](./bannerwalther.png)
 <h1 align="center">Olá 👋, me chamo Walther </h1>
 <h3 align="center">Seja bem-vindo(a) ao meu Github</h3>
 
