@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Walther Oliveira</h1>
-<h3 align="center">Welcome to my profile</h3>
+<h1 align="center">Olá 👋, me chamo Walther </h1>
+<h3 align="center">Seja bem-vindo(a) ao meu Github</h3>
 
 <p align="left">
   <img
@@ -8,10 +8,11 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Backend development** - 📫 How to reach me
+- 🌱 No momento estou aprendendo **desenvolvimento Backend**.
+- 📫 Meu contato:
 **waltheroliveirapires@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Redes Sociais:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/waltheroliveira" target="blank"
     ><img
@@ -31,7 +32,7 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
