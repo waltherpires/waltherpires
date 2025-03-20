@@ -9,7 +9,7 @@
   />
 </p>
 
-- 🌱 No momento estou aprendendo **desenvolvimento Backend**.
+- 🌱 No momento estou aprendendo **desenvolvimento Frontend**.
 - 📫 Meu contato:
 **waltheroliveirapires@gmail.com**
 
