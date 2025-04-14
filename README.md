@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">## 👋 Sobre mim<br><br>- 🧑‍💻 Meu nome é **Walther**  <br>- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  <br>- 💼 Focado em **desenvolvimento frontend**  <br>- ⚛️ Techs favoritas: **React, Next.js, TypeScript**  <br>- 📱 Atualmente aprendendo **React Native**<br>- 🚀 Em busca de uma oportunidade como **desenvolvedor frontend**</p>
+<p align="left">## 👋 Sobre mim<br><br>- 🧑‍💻 Meu nome é Walther  <br>- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  <br>- 💼 Focado em desenvolvimento frontend  <br>- ⚛️ Techs favoritas: React, Next.js, TypeScript  <br>- 📱 Atualmente aprendendo React Native<br>- 🚀 Em busca de uma oportunidade como desenvolvedor frontend</p>
 
 ###
 
