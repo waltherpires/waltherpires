@@ -14,11 +14,9 @@
   Sobre mim:<br>
   <ul>
     <li>🧑‍💻 Meu nome é Walther</li>
-    <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas</li>
+    <li>🎓 Formado em Análise e Desenvolvimento de Sistemas</li>
     <li>💼 Focado em desenvolvimento frontend</li>
     <li>⚛️ Techs favoritas: React, Next.js, TypeScript</li>
-    <li>📱 Atualmente aprendendo React Native</li>
-    <li>🚀 Em busca de uma oportunidade como desenvolvedor frontend</li>
   </ul>
 </p>
 
